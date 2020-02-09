@@ -73,7 +73,7 @@ public class ApertiumInstallation {
    */
   private File bytecodeCacheDir;
 
-  ApertiumInstallation(File packagesDir, File bytecodeDir, File bytecodeCacheDir) {
+  public ApertiumInstallation(File packagesDir, File bytecodeDir, File bytecodeCacheDir) {
     this.packagesDir = packagesDir;
     this.bytecodeDir = bytecodeDir;
     this.bytecodeCacheDir = bytecodeCacheDir;

@@ -1,7 +1,7 @@
 apertium-af-nl	https://svn.code.sf.net/p/apertium/svn/builds/apertium-af-nl/apertium-af-nl.jar	svn:rev58256	af-nl, nl-af
 apertium-ca-it	https://svn.code.sf.net/p/apertium/svn/builds/apertium-ca-it/apertium-ca-it.jar	file:apertium-ca-it-0.1.0.tar.gz	ca-it, it-ca
 apertium-en-ca	https://svn.code.sf.net/p/apertium/svn/builds/apertium-en-ca/apertium-en-ca.jar	svn:rev61328	en-ca, ca-en, ca-en_US
-apertium-en-es	https://svn.code.sf.net/p/apertium/svn/builds/apertium-en-es/apertium-en-es.jar	svn:rev64901	en-es, es-en, es-en_US
+apertium-en-es	https://svn.code.sf.net/p/apertium/svn/builds/apertium-en-es/apertium-en-es.jar	svn:rev84369	en-es, es-en, es-en_US
 apertium-en-gl	https://svn.code.sf.net/p/apertium/svn/builds/apertium-en-gl/apertium-en-gl.jar	svn:rev57551	en-gl, gl-en
 apertium-eo-ca	https://svn.code.sf.net/p/apertium/svn/builds/apertium-eo-ca/apertium-eo-ca.jar	svn:rev60655	ca-eo, ca-eo-translit
 apertium-eo-en	https://svn.code.sf.net/p/apertium/svn/builds/apertium-eo-en/apertium-eo-en.jar	svn:rev63833	eo-en, en-eo
